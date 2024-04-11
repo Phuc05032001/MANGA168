@@ -24,3 +24,7 @@ Route::get('/manga', function () {
 Route::get('/a-z', function () {
     return view('list_manga_alphabet');
 });
+
+Route::get('/bookmark', function () {
+    return view('bookmark');
+});
