@@ -175,22 +175,22 @@
                         <img
                             class="ts-main-image lazy"
                             data-index="1"
-                            src="https://manga168.com/wp-content/themes/hippo168/assets/img/readerarea.svg"
-                            data-src="https://amz-cdn.manga168.com/img/855a5bb5b124f711b3bc35c83f74b766.jpg"
+                            src="images/readerarea.svg"
+                            data-src="#"
                             data-server="Server1"
                         />
                         <img
                             class="ts-main-image lazy"
                             data-index="2"
-                            src="https://manga168.com/wp-content/themes/hippo168/assets/img/readerarea.svg"
-                            data-src="https://amz-cdn.manga168.com/img/6839678ab4884ba06096c65c488572fe.jpg"
+                            src="images/readerarea.svg"
+                            data-src="#"
                             data-server="Server1"
                         />
                         <img
                             class="ts-main-image lazy"
                             data-index="3"
-                            src="https://manga168.com/wp-content/themes/hippo168/assets/img/readerarea.svg"
-                            data-src="https://amz-cdn.manga168.com/img/8c8ca3a59e9c50c73de4dc7c80b28421.jpg"
+                            src="images/readerarea.svg"
+                            data-src="#"
                             data-server="Server1"
                         />
                         </div>
