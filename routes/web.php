@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/list', function () {
+Route::get('/manga', function () {
     return view('list_manga');
+});
+
+Route::get('/a-z', function () {
+    return view('list_manga_alphabet');
 });
