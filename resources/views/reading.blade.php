@@ -169,60 +169,35 @@
                             </span>
                         </span>
                         </div>
-                        <div class="kln">
-                        <a
-                            href="https://www.bsc.news/post/10-andab-ewbhwy-nailn-h-thitmaakthiisudainpii-2024"
-                            target="_blank"
-                            ><img
-                            src="images/7dd9800e186d0ff5bab3e05b99107937.jpg"
-                            alt="หวย24"
-                            rel="dofollow"
-                            />
-                        </a>
-                        </div>
+
                         <div id="readerarea">
+
                         <img
-                            class="ts-main-image lazy loaded curdown"
-                            data-index="0"
-                            src="https://amz-cdn.manga168.com/img/5ba3084e01dbd010f01422853d47cfb8.jpg"
-                            data-server="Server1"
-                            onload="ts_reader_control.singleImageOnload();"
-                            onerror="ts_reader_control.imageOnError();"
-                            data-ll-status="loaded"
-                        /><img
                             class="ts-main-image lazy"
                             data-index="1"
                             src="https://manga168.com/wp-content/themes/hippo168/assets/img/readerarea.svg"
                             data-src="https://amz-cdn.manga168.com/img/855a5bb5b124f711b3bc35c83f74b766.jpg"
                             data-server="Server1"
-                        /><img
+                        />
+                        <img
                             class="ts-main-image lazy"
                             data-index="2"
                             src="https://manga168.com/wp-content/themes/hippo168/assets/img/readerarea.svg"
                             data-src="https://amz-cdn.manga168.com/img/6839678ab4884ba06096c65c488572fe.jpg"
                             data-server="Server1"
-                        /><img
+                        />
+                        <img
                             class="ts-main-image lazy"
                             data-index="3"
                             src="https://manga168.com/wp-content/themes/hippo168/assets/img/readerarea.svg"
                             data-src="https://amz-cdn.manga168.com/img/8c8ca3a59e9c50c73de4dc7c80b28421.jpg"
-                            data-server="Server1"
-                        /><img
-                            class="ts-main-image lazy"
-                            data-index="4"
-                            src="https://manga168.com/wp-content/themes/hippo168/assets/img/readerarea.svg"
-                            data-src="https://amz-cdn.manga168.com/img/c39ca79665591ec12967016ebb414a8b.jpg"
                             data-server="Server1"
                         />
                         </div>
                         <div id="readerarea-loading" style="text-align: center; display: none">
                         <img src="images/readerarea.svg" />
                         </div>
-                        <div class="kln">
-                        <a href="https://series-168.com/" target="_blank" rel="dofollow"
-                            ><img src="images/660f09e787447.webp" alt="ดูซีรี่ย์" border="0"
-                        /></a>
-                        </div>
+
                         <div class="chnav cbot">
                         <span class="selector slc l">
                             <div class="nvx">
