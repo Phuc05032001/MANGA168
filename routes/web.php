@@ -45,5 +45,8 @@ Route::get('/manga-detail', function () {
     return view('manga_detail');
 });
 
+Route::get('/reading', function () {
+    return view('reading');
+});
 
 
