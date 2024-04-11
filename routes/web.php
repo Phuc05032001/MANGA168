@@ -28,3 +28,18 @@ Route::get('/a-z', function () {
 Route::get('/bookmark', function () {
     return view('bookmark');
 });
+
+Route::get('/blogs', function () {
+    return view('blog');
+});
+
+Route::get('/blog-detail', function () {
+    return view('blog_detail');
+});
+
+Route::get('/manga-detail', function () {
+    return view('manga_detail');
+});
+
+
+
