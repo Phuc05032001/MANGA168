@@ -20,5 +20,3 @@
     RewriteRule ^ index.php [L]
 </IfModule>
 
-# Add WebP MIME Type
-AddType image/webp .webp

@@ -14,7 +14,7 @@
                 class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-499923"
               >
                 <a
-                  href="https://manga168.com"
+                  href="#"
                   aria-current="page"
                   itemprop="url"
                   >หน้าแรก</a
@@ -24,7 +24,7 @@
                 id="menu-item-499924"
                 class="menu-item menu-item-type-post_type_archive menu-item-object-manga menu-item-499924"
               >
-                <a href="https://manga168.com/manga/" itemprop="url"
+                <a href="#" itemprop="url"
                   >All Manga</a
                 >
               </li>
@@ -32,7 +32,7 @@
                 id="menu-item-499925"
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499925"
               >
-                <a href="https://manga168.com/bookmark/" itemprop="url"
+                <a href="#" itemprop="url"
                   >BookMark</a
                 >
               </li>
@@ -41,7 +41,7 @@
                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-499926"
               >
                 <a
-                  href="https://manga168.com/manga/?status=&amp;type=manga&amp;order="
+                  href="#"
                   itemprop="url"
                   >มังงะญี่ปุ่น</a
                 >
@@ -51,7 +51,7 @@
                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-499927"
               >
                 <a
-                  href="https://manga168.com/manga/?status=&amp;type=manhwa&amp;order="
+                  href="#"
                   itemprop="url"
                   >มังงะเกาหลี</a
                 >
@@ -60,7 +60,7 @@
                 id="menu-item-499928"
                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-499928"
               >
-                <a href="https://manga168.com/manga/?type=manhua" itemprop="url"
+                <a href="#" itemprop="url"
                   >มังงะจีน</a
                 >
               </li>
@@ -68,14 +68,14 @@
                 id="menu-item-499929"
                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-499929"
               >
-                <a href="https://jav-168.com/" itemprop="url">JAV</a>
+                <a href="#" itemprop="url">JAV</a>
               </li>
               <li
                 id="menu-item-537807"
                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-537807"
               >
                 <a
-                  href="https://www.bsc.news/post/10-andab-ewbhwy-nailn-h-thitmaakthiisudainpii-2024"
+                  href="#"
                   itemprop="url"
                   >แทงหวยออนไลน์</a
                 >
@@ -84,13 +84,13 @@
                 id="menu-item-551814"
                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551814"
               >
-                <a href="https://twbaccarat.com/" itemprop="url">บาคาร่า</a>
+                <a href="#" itemprop="url">บาคาร่า</a>
               </li>
               <li
                 id="menu-item-567787"
                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567787"
               >
-                <a href="https://ajecafe.com/" itemprop="url">สล็อตเว็บตรง</a>
+                <a href="#" itemprop="url">สล็อตเว็บตรง</a>
               </li>
             </ul>
           </div>
@@ -100,40 +100,40 @@
             <span class="ftaz">รายชื่อมังงะ AZ</span
             ><span class="size-s">ค้นหารายตามตัวอักษร A-Z</span>
             <ul class="ulclear az-list">
-              <li><a href="https://manga168.com/a-z/?show=.">#</a></li>
-              <li><a href="https://manga168.com/a-z/?show=0-9">0-9</a></li>
-              <li><a href="https://manga168.com/a-z/?show=A">A</a></li>
-              <li><a href="https://manga168.com/a-z/?show=B">B</a></li>
-              <li><a href="https://manga168.com/a-z/?show=C">C</a></li>
-              <li><a href="https://manga168.com/a-z/?show=D">D</a></li>
-              <li><a href="https://manga168.com/a-z/?show=E">E</a></li>
-              <li><a href="https://manga168.com/a-z/?show=F">F</a></li>
-              <li><a href="https://manga168.com/a-z/?show=G">G</a></li>
-              <li><a href="https://manga168.com/a-z/?show=H">H</a></li>
-              <li><a href="https://manga168.com/a-z/?show=I">I</a></li>
-              <li><a href="https://manga168.com/a-z/?show=J">J</a></li>
-              <li><a href="https://manga168.com/a-z/?show=K">K</a></li>
-              <li><a href="https://manga168.com/a-z/?show=L">L</a></li>
-              <li><a href="https://manga168.com/a-z/?show=M">M</a></li>
-              <li><a href="https://manga168.com/a-z/?show=N">N</a></li>
-              <li><a href="https://manga168.com/a-z/?show=O">O</a></li>
-              <li><a href="https://manga168.com/a-z/?show=P">P</a></li>
-              <li><a href="https://manga168.com/a-z/?show=Q">Q</a></li>
-              <li><a href="https://manga168.com/a-z/?show=R">R</a></li>
-              <li><a href="https://manga168.com/a-z/?show=S">S</a></li>
-              <li><a href="https://manga168.com/a-z/?show=T">T</a></li>
-              <li><a href="https://manga168.com/a-z/?show=U">U</a></li>
-              <li><a href="https://manga168.com/a-z/?show=V">V</a></li>
-              <li><a href="https://manga168.com/a-z/?show=W">W</a></li>
-              <li><a href="https://manga168.com/a-z/?show=X">X</a></li>
-              <li><a href="https://manga168.com/a-z/?show=Y">Y</a></li>
-              <li><a href="https://manga168.com/a-z/?show=Z">Z</a></li>
+              <li><a href="#">#</a></li>
+              <li><a href="#">0-9</a></li>
+              <li><a href="#">A</a></li>
+              <li><a href="#">B</a></li>
+              <li><a href="#">C</a></li>
+              <li><a href="#">D</a></li>
+              <li><a href="#">E</a></li>
+              <li><a href="#">F</a></li>
+              <li><a href="#">G</a></li>
+              <li><a href="#">H</a></li>
+              <li><a href="#">I</a></li>
+              <li><a href="#">J</a></li>
+              <li><a href="#">K</a></li>
+              <li><a href="#">L</a></li>
+              <li><a href="#">M</a></li>
+              <li><a href="#">N</a></li>
+              <li><a href="#">O</a></li>
+              <li><a href="#">P</a></li>
+              <li><a href="#">Q</a></li>
+              <li><a href="#">R</a></li>
+              <li><a href="#">S</a></li>
+              <li><a href="#">T</a></li>
+              <li><a href="#">U</a></li>
+              <li><a href="#">V</a></li>
+              <li><a href="#">W</a></li>
+              <li><a href="#">X</a></li>
+              <li><a href="#">Y</a></li>
+              <li><a href="#">Z</a></li>
             </ul>
             <div class="clear"></div>
           </div>
           <div class="socialbutton">
             <a
-              href="https://www.facebook.com/manga168"
+              href="#"
               class="scfb"
               target="_blank"
               ><i class="fab fa-facebook-f"></i
@@ -141,7 +141,7 @@
           </div>
         </div>
         <center>
-          <a href="https://discord.gg/Q32j4npYJm" target="_blank"
+          <a href="#" target="_blank"
             ><img src="images/discord-1.webp" width="389" height="125"
           /></a>
         </center>
@@ -159,7 +159,7 @@
                   title="อ่านมังงะ"
                   aria-label="อ่านมังงะ"
                   rel="dofollow"
-                  href="https://manga168.com"
+                  href="#"
                   style="color: #f7941d; text-decoration: none"
                   >อ่านมังงะ</a
                 >
@@ -171,7 +171,7 @@
                   title="ซีรีย์จีน"
                   aria-label="ดูซีรี่ย์จีน"
                   rel="dofollow"
-                  href="https://xn--168-5klo9fvch5nbc9t0b.com/"
+                  href="#"
                   style="color: #f7941d; text-decoration: none"
                   >ดูซีรี่ย์จีน</a
                 >
@@ -185,7 +185,7 @@
                   title="ซีรีย์เกาหลี"
                   aria-label="ดูซีรี่ย์เกาหลี"
                   rel="dofollow"
-                  href="https://xn--12ct3edm9aycubf0j2d7b.com/"
+                  href="#"
                   style="color: #f7941d; text-decoration: none"
                   >ดูซีรี่ย์เกาหลี</a
                 >

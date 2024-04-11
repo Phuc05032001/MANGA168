@@ -15,10 +15,11 @@
                 รายชื่อจะถูกเก็บไว้ในเครื่องที่คุณใช้งานอยู่เท่านั้น!!
               </p>
               <div class="listupd" id="bookmark-pool">
+                <!-- List các truyện đã đánh dấu -->
                  <div class="bs">
                     <div class="bsx">
                       <a
-                        href="https://manga168.com/manga/a-babys-nest/"
+                        href="/manga-detail"
                         title="A Baby’s Nest"
                       >
                         <div class="limit">
@@ -58,46 +59,7 @@
                       </a>
                     </div>
                   </div>
-                  <div class="bs">
-                    <div class="bsx">
-                      <a
-                        href="https://manga168.com/manga/a-buoyant-girl-confessed-to-me/"
-                        title="A Buoyant Girl Confessed To Me"
-                      >
-                        <div class="limit">
-                          <div class="ply"></div>
-                          <img
-                            decoding="async"
-                            src="images/A-Buoyant-Girl-Confessed-To-Me-213x300.jpg"
-                            class="ts-post-image wp-post-image attachment-medium size-medium"
-                            loading="lazy"
-                            title="A Buoyant Girl Confessed To Me"
-                            alt="A Buoyant Girl Confessed To Me"
-                            width="213"
-                            height="300"
-                          />
-                        </div>
-                        <div class="bigor">
-                          <div class="tt">A Buoyant Girl Confessed To Me</div>
-                          <div class="adds">
-                            <div class="epxs">ตอนที่ 1</div>
-                            <div class="rt">
-                              <div class="rating">
-                                <div class="rating-prc">
-                                  <div class="rtp">
-                                    <div class="rtb">
-                                      <span style="width: 70%"></span>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="numscore">7.00</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
+
               </div>
             </div>
           </div>

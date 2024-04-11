@@ -148,7 +148,7 @@
             </div>
             <div class="socialts">
                 <a
-                href="https://www.facebook.com/sharer/sharer.php?u=https://manga168.com/blog/manhwa-2023/&amp;t=Manhwa ในยุคสมัย 2023"
+                href="#"
                 target="_blank"
                 class="fb"
                 >
@@ -156,7 +156,7 @@
                 <span>Facebook</span>
                 </a>
                 <a
-                href="https://www.twitter.com/intent/tweet?url=https://manga168.com/blog/manhwa-2023/&amp;text=Manhwa ในยุคสมัย 2023"
+                href="#"
                 target="_blank"
                 class="twt"
                 >
@@ -164,7 +164,7 @@
                 <span>Twitter</span>
                 </a>
                 <a
-                href="whatsapp://send?text=Manhwa ในยุคสมัย 2023 https://manga168.com/blog/manhwa-2023/"
+                href="#"
                 target="_blank"
                 class="wa"
                 >
@@ -172,7 +172,7 @@
                 <span>WhatsApp</span>
                 </a>
                 <a
-                href="https://pinterest.com/pin/create/button/?url=https://manga168.com/blog/manhwa-2023/&amp;media=https://manga168.com/wp-content/uploads/2023/06/s.webp&amp;description=Manhwa ในยุคสมัย 2023"
+                href="#"
                 target="_blank"
                 class="pntrs"
                 >
@@ -243,139 +243,6 @@
                         ><time
                             itemprop="dateModified"
                             datetime="2023-06-10T06:35:37+07:00"
-                            >มิถุนายน 10, 2023</time
-                        ></span
-                        >
-                    </div>
-                    </div>
-                </div>
-                </article>
-                <article
-                class="blogbox hentry"
-                itemscope="itemscope"
-                itemtype="http://schema.org/CreativeWork"
-                >
-                <div class="innerblog">
-                    <div class="thumb">
-                    <a
-                        href="https://manga168.com/blog/manhwa-silent-war/"
-                        title="10 อันดับ มันฮวาที่คล้ายกับเรื่อง Silent War หรือ My Kingdom(18+)"
-                        itemprop="url"
-                    >
-                        <img
-                        width="150"
-                        height="150"
-                        src="https://manga168.com/wp-content/uploads/2022/05/มันฮวา-18-150x150.png"
-                        class="attachment-thumbnail size-thumbnail wp-post-image"
-                        alt=""
-                        itemprop="image"
-                        title="10 อันดับ มันฮวาที่คล้ายกับเรื่อง Silent War หรือ My Kingdom(18+)"
-                        decoding="async"
-                        loading="lazy"
-                        />
-                        <span class="btags">manhwa</span>
-                    </a>
-                    </div>
-                    <div class="infoblog">
-                    <header class="entry-header">
-                        <h2 class="entry-title" itemprop="headline">
-                        <a
-                            href="https://manga168.com/blog/manhwa-silent-war/"
-                            title="10 อันดับ มันฮวาที่คล้ายกับเรื่อง Silent War หรือ My Kingdom(18+)"
-                            itemprop="url"
-                        >
-                            10 อันดับ มันฮวาที่คล้ายกับเรื่อง Silent War หรือ My
-                            Kingdom(18+)
-                        </a>
-                        </h2>
-                    </header>
-                    <div class="entry-content" itemprop="text">
-                        <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Silent War หรือ My K…</p>
-                    </div>
-                    <div class="entry-meta">
-                        <span class="author vcard"
-                        ><i class="far fa-user"></i> <i class="fn">manga168</i></span
-                        >
-                        ·
-                        <span
-                        ><i class="far fa-clock"></i>
-                        <time
-                            itemprop="datePublished"
-                            datetime="2022-05-16T22:09:37+07:00"
-                            class="updated"
-                            >พ.ค. 16, 2022</time
-                        ></span
-                        >
-                        <span class="hide"
-                        ><time
-                            itemprop="dateModified"
-                            datetime="2023-06-10T06:36:52+07:00"
-                            >มิถุนายน 10, 2023</time
-                        ></span
-                        >
-                    </div>
-                    </div>
-                </div>
-                </article>
-                <article
-                class="blogbox hentry"
-                itemscope="itemscope"
-                itemtype="http://schema.org/CreativeWork"
-                >
-                <div class="innerblog">
-                    <div class="thumb">
-                    <a
-                        href="#"
-                        title="ฝากผลงานแปล"
-                        itemprop="url"
-                    >
-                        <img
-                        width="150"
-                        height="150"
-                        src="https://manga168.com/wp-content/uploads/2021/04/email-manga168-150x150.webp"
-                        class="attachment-thumbnail size-thumbnail wp-post-image"
-                        alt=""
-                        itemprop="image"
-                        title="ฝากผลงานแปล"
-                        decoding="async"
-                        loading="lazy"
-                        />
-                        <span class="btags">ฝากผลงานแปลมังงะ</span>
-                    </a>
-                    </div>
-                    <div class="infoblog">
-                    <header class="entry-header">
-                        <h2 class="entry-title" itemprop="headline">
-                        <a
-                            href="#"
-                            title="ฝากผลงานแปล"
-                            itemprop="url"
-                        >
-                            ฝากผลงานแปล
-                        </a>
-                        </h2>
-                    </header>
-                    <div class="entry-content" itemprop="text">
-                        <p>จัดส่งมาที่ Email : DISTANT.FA…</p>
-                    </div>
-                    <div class="entry-meta">
-                        <span class="author vcard"
-                        ><i class="far fa-user"></i> <i class="fn">manga168</i></span
-                        >
-                        ·
-                        <span
-                        ><i class="far fa-clock"></i>
-                        <time
-                            itemprop="datePublished"
-                            datetime="2021-04-10T18:41:33+07:00"
-                            class="updated"
-                            >เม.ย. 10, 2021</time
-                        ></span
-                        >
-                        <span class="hide"
-                        ><time
-                            itemprop="dateModified"
-                            datetime="2023-06-10T06:41:42+07:00"
                             >มิถุนายน 10, 2023</time
                         ></span
                         >

@@ -35,7 +35,7 @@
                     <img
                         width="653"
                         height="884"
-                        src="images/%C3%A0%C2%B9_%C3%A0%C2%B8_%C3%A0%C2%B9_%C3%A0%C2%B8_%C3%A0%C2%B8%C2%B1%C3%A0%C2%B8%C2%A7.jpg"
+                        src="#"
                         class="attachment- size- wp-post-image"
                         alt="Mercenary Enrollment พี่ชายสายบอดี้การ์ด"
                         title="Mercenary Enrollment พี่ชายสายบอดี้การ์ด"
@@ -185,6 +185,7 @@
                         </tbody>
                         </table>
                         <div class="seriestugenre">
+                            <!-- Tag thể loại -->
                         <a
                             href="#"
                             rel="tag"
@@ -195,27 +196,6 @@
                             rel="tag"
                             >Drama ดราม่า</a
                         >
-                        <a
-                            href="#"
-                            rel="tag"
-                            >Manhwa มังฮวา</a
-                        >
-                        <a
-                            href="#"
-                            rel="tag"
-                            >Romance โรแมนซ์</a
-                        >
-                        <a
-                            href="#"
-                            rel="tag"
-                            >School Life ชีวิตประจำวัน</a
-                        >
-                        <a
-                            href="#"
-                            rel="tag"
-                            >Sci-fi ไซ-ไฟ</a
-                        >
-                        </div>
                     </div>
                     </div>
                 </div>
@@ -305,6 +285,8 @@
                 <!-- List chapter -->
                 <div class="eplister" id="chapterlist">
                 <ul class="clstyle">
+
+                <!-- tag từng chapter -->
                     <li data-num="183">
                     <div class="chbox">
                         <div class="eph-num">
@@ -313,80 +295,6 @@
                         >
                             <span class="chapternum">ตอนที่ 183</span>
                             <span class="chapterdate">เมษายน 7, 2024</span>
-                        </a>
-                        </div>
-                    </div>
-                    </li>
-                    <li data-num="182">
-                    <div class="chbox">
-                        <div class="eph-num">
-                        <a
-                            href="#"
-                        >
-                            <span class="chapternum">ตอนที่ 182</span>
-                            <span class="chapterdate">มีนาคม 31, 2024</span>
-                        </a>
-                        </div>
-                    </div>
-                    </li>
-                    <li data-num="181">
-                    <div class="chbox">
-                        <div class="eph-num">
-                        <a
-                            href="#"
-                        >
-                            <span class="chapternum">ตอนที่ 181</span>
-                            <span class="chapterdate">มีนาคม 25, 2024</span>
-                        </a>
-                        </div>
-                    </div>
-                    </li>
-                    <li data-num="180">
-                    <div class="chbox">
-                        <div class="eph-num">
-                        <a
-                            href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-180/"
-                        >
-                            <span class="chapternum">ตอนที่ 180</span>
-                            <span class="chapterdate">มีนาคม 18, 2024</span>
-                        </a>
-                        </div>
-                    </div>
-                    </li>
-                    <li data-num="179">
-                    <div class="chbox">
-                        <div class="eph-num">
-                        <a
-                            href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-179/"
-                        >
-                            <span class="chapternum">ตอนที่ 179</span>
-                            <span class="chapterdate">มีนาคม 11, 2024</span>
-                        </a>
-                        </div>
-                    </div>
-                    </li>
-                    <li data-num="178">
-                    <div class="chbox">
-                        <div class="eph-num">
-                        <a
-                            href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-178/"
-                        >
-                            <span class="chapternum">ตอนที่ 178</span>
-                            <span class="chapterdate">มีนาคม 3, 2024</span>
-                        </a>
-                        </div>
-                    </div>
-                    </li>
-                    <li data-num="177">
-                    <div class="chbox">
-                        <div class="eph-num">
-                        <a
-                            href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-177/"
-                        >
-                            <span class="chapternum">ตอนที่ 177</span>
-                            <span class="chapterdate"
-                            >กุม�&nbsp;าพันธ์ 25, 2024</span
-                            >
                         </a>
                         </div>
                     </div>
@@ -400,212 +308,45 @@
                 <h2><span>แนะนำมังงะเรื่องอื่นๆ</span></h2>
                 </div>
                 <div class="listupd">
-                <div class="bs">
-                    <div class="bsx">
-                    <a
-                        href="https://manga168.com/manga/the-onee-sama-and-the-giant/"
-                        title="The Onee-sama and the Giant"
-                    >
-                        <div class="limit">
-                        <div class="ply"></div>
-                        <img
-                            src="images/2a8860b7cdaaad5c29b3437af555badc_The-Onee-sama-and-the-Giant-1-1.webp"
-                            class="ts-post-image wp-post-image attachment-medium size-medium"
-                            loading="lazy"
+                    <div class="bs">
+                        <div class="bsx">
+                        <a
+                            href="#"
                             title="The Onee-sama and the Giant"
-                            alt="The Onee-sama and the Giant"
-                            width="165"
-                            height="225"
-                        />
-                        </div>
-                        <div class="bigor">
-                        <div class="tt">The Onee-sama and the Giant</div>
-                        <div class="adds">
-                            <div class="epxs">ตอนที่ 13</div>
-                            <div class="rt">
-                            <div class="rating">
-                                <div class="rating-prc">
-                                <div class="rtp">
-                                    <div class="rtb">
-                                    <span style="width: 70%"></span>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="numscore">7</div>
-                            </div>
-                            </div>
-                        </div>
-                        </div>
-                    </a>
-                    </div>
-                </div>
-                <div class="bs">
-                    <div class="bsx">
-                    <a
-                        href="https://manga168.com/manga/saru-lock/"
-                        title="Saru Lock"
-                    >
-                        <div class="limit">
-                        <div class="ply"></div>
-                        <img
-                            src="images/56761-214x300.jpg"
-                            class="ts-post-image wp-post-image attachment-medium size-medium"
-                            loading="lazy"
-                            title="Saru Lock"
-                            alt="Saru Lock"
-                            width="214"
-                            height="300"
-                        />
-                        </div>
-                        <div class="bigor">
-                        <div class="tt">Saru Lock</div>
-                        <div class="adds">
-                            <div class="epxs">ตอนที่ 243</div>
-                            <div class="rt">
-                            <div class="rating">
-                                <div class="rating-prc">
-                                <div class="rtp">
-                                    <div class="rtb">
-                                    <span style="width: 74.4%"></span>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="numscore">7.44</div>
-                            </div>
-                            </div>
-                        </div>
-                        </div>
-                    </a>
-                    </div>
-                </div>
-                <div class="bs">
-                    <div class="bsx">
-                    <a
-                        href="https://manga168.com/manga/my-system-is-serious/"
-                        title="My System Is Serious"
-                    >
-                        <div class="limit">
-                        <div class="ply"></div>
-                        <span class="colored"
-                            ><i class="fas fa-palette"></i> Color</span
                         >
-                        <img
-                            src="images/My-System-Is-Serious.jpg"
-                            class="ts-post-image wp-post-image attachment-medium size-medium"
-                            loading="lazy"
-                            title="My System Is Serious"
-                            alt="My System Is Serious"
-                            width="160"
-                            height="213"
-                        />
-                        </div>
-                        <div class="bigor">
-                        <div class="tt">My System Is Serious</div>
-                        <div class="adds">
-                            <div class="epxs">ตอนที่ 6</div>
-                            <div class="rt">
-                            <div class="rating">
-                                <div class="rating-prc">
-                                <div class="rtp">
-                                    <div class="rtb">
-                                    <span style="width: 53%"></span>
+                            <div class="limit">
+                            <div class="ply"></div>
+                            <img
+                                src="#"
+                                class="ts-post-image wp-post-image attachment-medium size-medium"
+                                loading="lazy"
+                                title="The Onee-sama and the Giant"
+                                alt="The Onee-sama and the Giant"
+                                width="165"
+                                height="225"
+                            />
+                            </div>
+                            <div class="bigor">
+                            <div class="tt">The Onee-sama and the Giant</div>
+                            <div class="adds">
+                                <div class="epxs">ตอนที่ 13</div>
+                                <div class="rt">
+                                <div class="rating">
+                                    <div class="rating-prc">
+                                    <div class="rtp">
+                                        <div class="rtb">
+                                        <span style="width: 70%"></span>
+                                        </div>
                                     </div>
-                                </div>
-                                </div>
-                                <div class="numscore">5.3</div>
-                            </div>
-                            </div>
-                        </div>
-                        </div>
-                    </a>
-                    </div>
-                </div>
-                <div class="bs">
-                    <div class="bsx">
-                    <a
-                        href="https://manga168.com/manga/chronicles-of-the-demon-faction/"
-                        title="Chronicles of the Demon Faction"
-                    >
-                        <div class="limit">
-                        <div class="ply"></div>
-                        <span class="colored"
-                            ><i class="fas fa-palette"></i> Color</span
-                        >
-                        <img
-                            src="images/Chronicles-of-the-Demon-Faction-204x300.webp"
-                            class="ts-post-image wp-post-image attachment-medium size-medium"
-                            loading="lazy"
-                            title="Chronicles of the Demon Faction"
-                            alt="Chronicles of the Demon Faction"
-                            width="204"
-                            height="300"
-                        />
-                        </div>
-                        <div class="bigor">
-                        <div class="tt">
-                            Chronicles of the Demon Faction
-                        </div>
-                        <div class="adds">
-                            <div class="epxs">ตอนที่ 63</div>
-                            <div class="rt">
-                            <div class="rating">
-                                <div class="rating-prc">
-                                <div class="rtp">
-                                    <div class="rtb">
-                                    <span style="width: 57%"></span>
                                     </div>
+                                    <div class="numscore">7</div>
                                 </div>
                                 </div>
-                                <div class="numscore">5.7</div>
                             </div>
                             </div>
+                        </a>
                         </div>
-                        </div>
-                    </a>
                     </div>
-                </div>
-                <div class="bs">
-                    <div class="bsx">
-                    <a
-                        href="https://manga168.com/manga/hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made/"
-                        title="Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made"
-                    >
-                        <div class="limit">
-                        <div class="ply"></div>
-                        <img
-                            src="images/Hazure-Waku-no-Joutai-Ijou-Skill-de-Saikyou-ni-Natta-Ore-ga-Subete-wo-Juurin-Suru-made-193x278-1.jpg"
-                            class="ts-post-image wp-post-image attachment-medium size-medium"
-                            loading="lazy"
-                            title="Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made"
-                            alt="Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made"
-                            width="193"
-                            height="278"
-                        />
-                        </div>
-                        <div class="bigor">
-                        <div class="tt">
-                            Hazure Waku no [Joutai Ijou Skill] de Saikyou ni
-                            Natta Ore ga Subete wo Juurin Suru made
-                        </div>
-                        <div class="adds">
-                            <div class="epxs">ตอนที่ 46.2</div>
-                            <div class="rt">
-                            <div class="rating">
-                                <div class="rating-prc">
-                                <div class="rtp">
-                                    <div class="rtb">
-                                    <span style="width: 67%"></span>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="numscore">6.7</div>
-                            </div>
-                            </div>
-                        </div>
-                        </div>
-                    </a>
-                    </div>
-                </div>
                 </div>
             </div>
 
@@ -662,7 +403,7 @@
                 </style>
             </div>
 
-            <span
+            <!-- <span
                 style="display: none"
                 itemprop="publisher"
                 itemscope=""
@@ -674,7 +415,7 @@
                 itemtype="https://schema.org/ImageObject"
                 >
                 </span>
-            </span>
+            </span> -->
             </article>
         </div>
             @include('layout.rightbar')

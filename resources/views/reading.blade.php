@@ -19,7 +19,7 @@
                         </h1>
                         <div class="allc">
                         อ่านมังงะเรื่อง
-                        <a href="https://manga168.com/manga/mercenary-enrollment/"
+                        <a href="#"
                             >Mercenary Enrollment พี่ชายสายบอดี้การ์ด</a
                         >
                         แปลไทย ทุกตอน อัพเดทตอนล่าสุด
@@ -27,7 +27,7 @@
                     </div>
                     <div class="socialts">
                         <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-183/&amp;t=Mercenary Enrollment ตอนที่ 183"
+                        href="#"
                         target="_blank"
                         class="fb"
                         >
@@ -35,7 +35,7 @@
                         <span>Facebook</span>
                         </a>
                         <a
-                        href="https://www.twitter.com/intent/tweet?url=https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-183/&amp;text=Mercenary Enrollment ตอนที่ 183"
+                        href="#"
                         target="_blank"
                         class="twt"
                         >
@@ -43,7 +43,7 @@
                         <span>Twitter</span>
                         </a>
                         <a
-                        href="whatsapp://send?text=Mercenary Enrollment ตอนที่ 183 https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-183/"
+                        href="#"
                         target="_blank"
                         class="wa"
                         >
@@ -51,7 +51,7 @@
                         <span>WhatsApp</span>
                         </a>
                         <a
-                        href="https://pinterest.com/pin/create/button/?url=https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-183/&amp;media=&amp;description=Mercenary Enrollment ตอนที่ 183"
+                        href="#"
                         target="_blank"
                         class="pntrs"
                         >
@@ -66,7 +66,7 @@
                             itemscope=""
                             itemtype="http://schema.org/ListItem"
                         >
-                            <a itemprop="item" href="https://manga168.com/"
+                            <a itemprop="item" href="#"
                             ><span itemprop="name">Manga168</span></a
                             >
                             <meta itemprop="position" content="1" />
@@ -79,7 +79,7 @@
                         >
                             <a
                             itemprop="item"
-                            href="https://manga168.com/manga/mercenary-enrollment/"
+                            href="#"
                             ><span itemprop="name"
                                 >Mercenary Enrollment พี่ชายสายบอดี้การ์ด</span
                             ></a
@@ -94,7 +94,7 @@
                         >
                             <a
                             itemprop="item"
-                            href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-183/"
+                            href="#"
                             ><span itemprop="name">Mercenary Enrollment ตอนที่ 183</span></a
                             >
                             <meta itemprop="position" content="3" />
@@ -142,7 +142,7 @@
                             <div class="nextprev">
                                 <a
                                 class="ch-prev-btn"
-                                href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-182/"
+                                href="#"
                                 rel="prev"
                                 >
                                 <i class="fas fa-angle-left"></i> ก่อนหน้านี้
@@ -215,7 +215,7 @@
                             <div class="nextprev">
                                 <a
                                 class="ch-prev-btn"
-                                href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-182/"
+                                href="#"
                                 rel="prev"
                                 >
                                 <i class="fas fa-angle-left"></i> ก่อนหน้านี้

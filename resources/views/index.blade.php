@@ -80,23 +80,23 @@
       <div class="home-genres">
         <span class="genre-listx">
           <a
-            href="#"
+            href="/genre"
             title="View all series in Action ต่อสู้"
             >Action ต่อสู้</a
           ><a
-            href="#"
+            href="/genre"
             title="View all series in Adult ผู้ใหญ่"
             >Adult ผู้ใหญ่</a
           ><a
-            href="#"
+            href="/genre"
             title="View all series in Adventure ผจญ�&nbsp;ัย"
             >Adventure ผจญ�&nbsp;ัย</a
           ><a
-            href="#"
+            href="/genre"
             title="View all series in ahegao"
             >ahegao</a
           ><a
-            href="#"
+            href="/genre"
             title="View all series in anal"
             >anal</a
           ><a
@@ -114,7 +114,7 @@
           >
         </span>
         <span class="alman">
-          <a href="https://manga168.com/manga">รายชื่อมังงะทั้งหมด!!</a>
+          <a href="/manga">รายชื่อมังงะทั้งหมด!!</a>
         </span>
       </div>
 
@@ -131,13 +131,13 @@
                 <div class="bs">
                   <div class="bsx">
                     <a
-                      href="https://manga168.com/manga/ingoshima/"
+                      href="/manga-detail"
                       title="Ingoshima"
                     >
                       <div class="limit">
                         <div class="ply"></div>
                         <img
-                          src="images/%C3%A0%C2%B8_%C3%A0%C2%B8%C2%B2%C3%A0%C2%B8%C2%A7%C3%A0%C2%B8_%C3%A0%C2%B9_%C3%A0%C2%B9_%C3%A0%C2%B8%C2%AB%C3%A0%C2%B8%C2%A5%C3%A0%C2%B8_-2.jpg"
+                          src=""
                           class="ts-post-image wp-post-image attachment-medium size-medium"
                           loading="lazy"
                           title="Ingoshima"
@@ -167,91 +167,6 @@
                     </a>
                   </div>
                 </div>
-                <div class="bs">
-                  <div class="bsx">
-                    <a
-                      href="https://manga168.com/manga/kage-no-jitsuryokusha-ni-naritakute/"
-                      title="Kage no Jitsuryokusha ni Naritakute!"
-                    >
-                      <div class="limit">
-                        <div class="ply"></div>
-                        <span class="hotx"><i class="fab fa-hotjar"></i></span>
-                        <img
-                          src="images/227280-212x300.jpg"
-                          class="ts-post-image wp-post-image attachment-medium size-medium"
-                          loading="lazy"
-                          title="Kage no Jitsuryokusha ni Naritakute!"
-                          alt="Kage no Jitsuryokusha ni Naritakute!"
-                          width="212"
-                          height="300"
-                        />
-                      </div>
-                      <div class="bigor">
-                        <div class="tt">
-                          Kage no Jitsuryokusha ni Naritakute!
-                        </div>
-                        <div class="adds">
-                          <div class="epxs">ตอนที่ 62</div>
-                          <div class="rt">
-                            <div class="rating">
-                              <div class="rating-prc">
-                                <div class="rtp">
-                                  <div class="rtb">
-                                    <span style="width: 81.3%"></span>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="numscore">8.13</div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div class="bs">
-                  <div class="bsx">
-                    <a
-                      href="https://manga168.com/manga/the-priest-of-corruption/"
-                      title="The Priest of Corruption"
-                    >
-                      <div class="limit">
-                        <div class="ply"></div>
-                        <span class="colored"
-                          ><i class="fas fa-palette"></i> Color</span
-                        >
-                        <img
-                          src="images/The-Priest-of-Corruption1-206x300.jpg"
-                          class="ts-post-image wp-post-image attachment-medium size-medium"
-                          loading="lazy"
-                          title="The Priest of Corruption"
-                          alt="The Priest of Corruption"
-                          width="206"
-                          height="300"
-                        />
-                      </div>
-                      <div class="bigor">
-                        <div class="tt">The Priest of Corruption</div>
-                        <div class="adds">
-                          <div class="epxs">ตอนที่ 50</div>
-                          <div class="rt">
-                            <div class="rating">
-                              <div class="rating-prc">
-                                <div class="rtp">
-                                  <div class="rtb">
-                                    <span style="width: 70%"></span>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="numscore">7.00</div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-
               </div>
             </div>
           </div>
@@ -267,57 +182,6 @@
 
               <!-- List truyện mới cập nhập -->
               <div class="listupd">
-                <div class="utao styletwo">
-                  <div class="uta">
-                    <div class="imgu">
-                      <a
-                        rel="158613"
-                        class="series"
-                        href="https://manga168.com/manga/banished-disciples-counterattack/"
-                        title="Banished Disciple’s Counterattack"
-                        ><img
-                          src="images/5f71977c0c611-750x999-1-225x300.jpg"
-                          class="ts-post-image wp-post-image attachment-medium size-medium"
-                          loading="lazy"
-                          title="Banished Disciple’s Counterattack"
-                          alt="Banished Disciple’s Counterattack"
-                          width="225"
-                          height="300"
-                        />
-                      </a>
-                    </div>
-                    <div class="luf">
-                      <a
-                        class="series"
-                        href="https://manga168.com/manga/banished-disciples-counterattack/"
-                        title="Banished Disciple’s Counterattack"
-                      >
-                        <h4>Banished Disciple’s Counterattack</h4>
-                      </a>
-                      <ul class="Manhua">
-                        <li>
-                          <a
-                            href="https://manga168.com/banished-disciples-counterattack-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-477/"
-                            >ตอนที่ 477</a
-                          ><span>2 นาที ago</span>
-                        </li>
-                        <li>
-                          <a
-                            href="https://manga168.com/banished-disciples-counterattack-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-476/"
-                            >ตอนที่ 476</a
-                          ><span>5 วัน ago</span>
-                        </li>
-                        <li>
-                          <a
-                            href="https://manga168.com/banished-disciples-counterattack-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-475/"
-                            >ตอนที่ 475</a
-                          ><span>7 วัน ago</span>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-
                 <div class="utao styletwo">
                   <div class="uta">
                     <div class="imgu">

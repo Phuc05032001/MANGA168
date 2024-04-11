@@ -15,14 +15,14 @@
             <div class="innerblog">
               <div class="thumb">
                 <a
-                  href="#"
+                  href="/blog-detail"
                   title="Manhwa ในยุคสมัย 2023"
                   itemprop="url"
                 >
                   <img
                     width="150"
                     height="150"
-                    src="https://manga168.com/wp-content/uploads/2023/06/s-150x150.webp"
+                    src="#"
                     class="attachment-thumbnail size-thumbnail wp-post-image"
                     alt=""
                     itemprop="image"
