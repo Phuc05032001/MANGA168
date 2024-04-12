@@ -24,7 +24,7 @@
                     itemprop="url"
                     href="/"
                     ><img
-                    src="images/168-no1.webp"
+                    src="{!! asset('images/168-no1.webp') !!}"
                     alt="Manga168 - เว็บอ่านการ์ตูนออนไลน์ Manga168 มังงะ168 อ่านมังงะฟรี manhua จีน manhwa เกาหลี manga มังฮวา แปลไทย app แอพ android ios iphone ipad อัพเดทล่าสุดให้เลือกอ่านเพียบ"
                     /><span class="hdl">Manga168</span></a
                 >

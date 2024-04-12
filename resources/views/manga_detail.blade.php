@@ -35,7 +35,7 @@
                     <img
                         width="653"
                         height="884"
-                        src="#"
+                        src="/reading"
                         class="attachment- size- wp-post-image"
                         alt="Mercenary Enrollment พี่ชายสายบอดี้การ์ด"
                         title="Mercenary Enrollment พี่ชายสายบอดี้การ์ด"
@@ -110,14 +110,14 @@
                     </div>
                     <div class="lastend">
                         <div class="inepcx">
-                        <a href="#/">
+                        <a href="/reading">
                             <span>อ่าน ตอนแรกทันที:</span>
                             <span class="epcur epcurfirst">ตอนที่ ?</span>
                         </a>
                         </div>
                         <div class="inepcx">
                         <a
-                            href="#"
+                            href="/reading"
                         >
                             <span>อ่าน ตอนล่าสุด:</span>
                             <span class="epcur epcurlast">ตอนที่ 183</span>
@@ -291,7 +291,7 @@
                     <div class="chbox">
                         <div class="eph-num">
                         <a
-                            href="#"
+                            href="/reading"
                         >
                             <span class="chapternum">ตอนที่ 183</span>
                             <span class="chapterdate">เมษายน 7, 2024</span>
@@ -350,7 +350,7 @@
                 </div>
             </div>
 
-            <div id="comments" class="bixbox comments-area">
+            <!-- <div id="comments" class="bixbox comments-area">
                 <div class="releases">
                 <h2><span>คอมเมนต์</span></h2>
                 </div>
@@ -401,7 +401,7 @@
                     width: 100% !important;
                 }
                 </style>
-            </div>
+            </div> -->
 
             <!-- <span
                 style="display: none"

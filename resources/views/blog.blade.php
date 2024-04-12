@@ -15,7 +15,7 @@
             <div class="innerblog">
               <div class="thumb">
                 <a
-                  href="/blog-detail"
+                  href="/blogs/blog-detail"
                   title="Manhwa ในยุคสมัย 2023"
                   itemprop="url"
                 >

@@ -33,7 +33,7 @@
                           href="#"
                           rel="181243">
                           <img
-                            src="images/photo_2023-08-08_21-36-41-207x300.jpg"
+                            src="#"
                             class="ts-post-image wp-post-image attachment-medium size-medium"
                             loading="lazy"
                             title="The Return of the Crazy Demon"

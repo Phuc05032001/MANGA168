@@ -17,7 +17,7 @@
                     <div class="limit">
                     <div class="ply"></div>
                     <img
-                        src="images/Just-The-Tip-Inside-is-Not-Sex-212x300.jpg"
+                        src="#"
                         class="ts-post-image wp-post-image attachment-medium size-medium"
                         loading="lazy"
                         title="“Just The Tip Inside” is Not Sex"

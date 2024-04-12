@@ -103,8 +103,7 @@
                     </div>
                     <div
                         class="entry-content entry-content-single maincontent"
-                        itemprop="description"
-                    >
+                        itemprop="description">
                         <div class="chdesc">
                         <p>
                             อ่านมังงะตอนล่าสุด เรื่อง
@@ -171,30 +170,16 @@
                         </div>
 
                         <div id="readerarea">
-
-                        <img
-                            class="ts-main-image lazy"
-                            data-index="1"
-                            src="images/readerarea.svg"
-                            data-src="#"
-                            data-server="Server1"
-                        />
-                        <img
-                            class="ts-main-image lazy"
-                            data-index="2"
-                            src="images/readerarea.svg"
-                            data-src="#"
-                            data-server="Server1"
-                        />
-                        <img
-                            class="ts-main-image lazy"
-                            data-index="3"
-                            src="images/readerarea.svg"
-                            data-src="#"
-                            data-server="Server1"
-                        />
+                            <img
+                                class="ts-main-image lazy"
+                                data-index="1"
+                                src="images/pic-manga.webp"
+                                data-src="#"
+                                data-server="Server1"
+                            />
                         </div>
-                        <div id="readerarea-loading" style="text-align: center; display: none">
+
+                        <div id="readerarea-loading" style="text-align: center; display: visualize">
                         <img src="images/readerarea.svg" />
                         </div>
 
@@ -259,6 +244,7 @@
                         </p>
                     </div>
                     </article>
+
                     <div class="bixbox">
                     <div class="releases">
                         <h2><span>แนะนำมังงะเรื่องอื่นๆ</span></h2>
@@ -276,7 +262,7 @@
                                 ><i class="fas fa-palette"></i> Color</span
                                 >
                                 <img
-                                src="images/Greatest-Sword-Immortal-212x300.jpg"
+                                src="images/manhwa.png"
                                 class="ts-post-image wp-post-image attachment-medium size-medium"
                                 loading="lazy"
                                 title="Greatest Sword Immortal"
@@ -315,7 +301,7 @@
                             <div class="limit">
                                 <div class="ply"></div>
                                 <img
-                                src="images/ec2f76e672f07cf73c9e608d91ae7135-1-211x300.webp"
+                                src="images/manhwa.png"
                                 class="ts-post-image wp-post-image attachment-medium size-medium"
                                 loading="lazy"
                                 title="Majo to Kishi wa Iki nokoru"
@@ -354,7 +340,7 @@
                             <div class="limit">
                                 <div class="ply"></div>
                                 <img
-                                src="images/i406338.jpg"
+                                src="images/manhwa.png"
                                 class="ts-post-image wp-post-image attachment-medium size-medium"
                                 loading="lazy"
                                 title="Level 1 kara Hajimaru Shoukan Musou"
@@ -396,7 +382,7 @@
                                 ><i class="fas fa-palette"></i> Color</span
                                 >
                                 <img
-                                src="images/1130c0a3fd998b63f7166a966281f5aa-1-225x300.webp"
+                                src="images/manhwa.png"
                                 class="ts-post-image wp-post-image attachment-medium size-medium"
                                 loading="lazy"
                                 title="I Was Raised by a Demon"
@@ -429,7 +415,7 @@
                         <div class="bs">
                         <div class="bsx">
                             <a
-                            href="https://manga168.com/manga/i-just-dont-play-according-to-the-routine/"
+                            href="#"
                             title="I Just Don’t Play According To The Routine"
                             >
                             <div class="limit">
@@ -438,7 +424,7 @@
                                 ><i class="fas fa-palette"></i> Color</span
                                 >
                                 <img
-                                src="images/I-Just-Dont-Play-According-To-The-Routine-225x300.jpg"
+                                src="images/manhwa.png"
                                 class="ts-post-image wp-post-image attachment-medium size-medium"
                                 loading="lazy"
                                 title="I Just Don’t Play According To The Routine"
@@ -471,7 +457,7 @@
                         <div class="bs">
                         <div class="bsx">
                             <a
-                            href="https://manga168.com/manga/wu-ling-martial-spirit-sword-master/"
+                            href="#"
                             title="Wu Ling (Martial Spirit) Sword Master"
                             >
                             <div class="limit">
@@ -480,7 +466,7 @@
                                 ><i class="fas fa-palette"></i> Color</span
                                 >
                                 <img
-                                src="images/1620214488-2350-i309827.png"
+                                src="images/manhwa.png"
                                 class="ts-post-image wp-post-image attachment-medium size-medium"
                                 loading="lazy"
                                 title="Wu Ling (Martial Spirit) Sword Master"
@@ -519,7 +505,7 @@
                                 ><i class="fas fa-palette"></i> Color</span
                                 >
                                 <img
-                                src="images/An-Ha-Muin-212x300.jpeg"
+                                src="images/manhwa.png"
                                 class="ts-post-image wp-post-image attachment-medium size-medium"
                                 loading="lazy"
                                 title="An Ha Muin"
@@ -551,10 +537,12 @@
                         </div>
                     </div>
                     </div>
+
                     <div id="comments" class="bixbox comments-area">
-                    <div class="releases">
-                        <h2><span>คอมเมนต์</span></h2>
-                    </div>
+
+                        <div class="releases">
+                            <h2><span>คอมเมนต์</span></h2>
+                        </div>
                     <div
                         id="wpdevar_comment_1"
                         style="
@@ -562,8 +550,7 @@
                         width: 100%;
                         background-color: #ffffff;
                         text-align: left;
-                        "
-                    >
+                        ">
                         <span
                         style="
                             padding: 10px;
@@ -582,6 +569,7 @@
                         style="display: block; background-color: #ffffff"
                         ></div>
                     </div>
+
                     <script>
                         jQuery(document).ready(function () {
                         wpdevart_comment_animated_element("fadeInLeft", "wpdevar_comment_1");
@@ -593,6 +581,7 @@
                         });
                         });
                     </script>
+
                     <style>
                         #wpdevar_comment_1 span,
                         #wpdevar_comment_1 iframe {
@@ -603,62 +592,100 @@
                     </div>
             </div>
 
-            <div class="readingnav rnavtop" style="display: none">
+            <!-- READING NAVBAR -->
 
+            <div class="readingnav rnavtop" style="display: block">
                 <div class="readingnavtop">
                     <div class="daw backseries">
-                    <a href="https://manga168.com/manga/mercenary-enrollment/"
-                        ><i class="fas fa-angle-double-left"></i
-                    ></a>
+                        <a href="https://manga168.com/manga/informer/"
+                            ><i class="fas fa-angle-double-left"></i
+                        ></a>
                     </div>
-                    <div class="daw chpnw">ตอนที่ 183</div>
+                    <div class="daw chpnw">ตอนที่ 18</div>
                 </div>
-
                 <div class="rdnmx rdtop"></div>
-                </div>
-
-                <div class="readingnav rnavbot" style="display: none">
-
-                <div class="readingnavbot">
-                    <div class="readingbar">
-                    <div class="readingprogress" style="width: 0px"></div>
-                    </div>
-                    <div class="readingoption">
-                    <span class="selectorx slc l">
-                        <div class="nvx">
-                        <select
-                            name="chapter"
-                            id="chapter"
-                            onchange="this.options[this.selectedIndex].value&amp;&amp;window.open(this.options[this.selectedIndex].value,'_self')"
-                        >
-                            <option value="">เลือกตอน</option>
-                        </select>
-                        </div>
-                    </span>
-                    <div class="btm-np nextprev">
-                        <a
-                        class="ch-prev-btn"
-                        href="https://manga168.com/mercenary-enrollment-%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88-182/"
-                        rel="prev"
-                        >
-                        <i class="fas fa-arrow-left"></i>
-                        </a>
-                        <span class="selectorx pagedsel r">
-                        <select name="select-paged" class="ts-select-paged" id="select-paged">
-                            <option value="0">1/5</option>
-                            <option value="1">2/5</option>
-                            <option value="2">3/5</option>
-                            <option value="3">4/5</option>
-                            <option value="4">5/5</option>
-                        </select>
-                        </span>
-                        <a class="ch-next-btn disabled" href="#/next/" rel="next">
-                        <i class="fas fa-arrow-right"></i>
-                        </a>
-                    </div>
-                    </div>
-                </div>
             </div>
+
+            <!-- <div class="readingnav rnavbot" style="display: block">
+                <div class="rdnmx rdbot"></div>
+                <div class="readingnavbot">
+
+                    <div class="readingbar">
+                        <div class="readingprogress" style="width: 50%"></div>
+                    </div>
+
+                    <div class="readingoption">
+                        <span class="selectorx slc l">
+                            <div class="nvx">
+                                <select
+                                    name="chapter"
+                                    id="chapter"
+                                    onchange=""
+                                >
+                                    <option value="" disabled="disabled">เลือกตอน</option>
+                                    <option
+                                        data-id=""
+                                        value=""
+                                        selected="selected"
+                                    >
+                                        ตอนที่ 18
+                                    </option>
+                                    <option
+                                        data-id=""
+                                        value=""
+                                    >
+                                        ตอนที่ 17
+                                    </option>
+                                    <option
+                                        data-id=""
+                                        value=""
+                                    >
+                                        ตอนที่ 16
+                                    </option>
+                                    <option
+                                        data-id=""
+                                        value=""
+                                    >
+                                        ตอนที่ 15
+                                    </option>
+                                    <option
+                                        data-id=""
+                                        value=""
+                                    >
+                                        ตอนที่ 14
+                                    </option>
+                                </select>
+                            </div>
+                        </span>
+
+                        <div class="btm-np nextprev">
+                            <a
+                                class="ch-prev-btn"
+                                href="#"
+                                rel="prev"
+                            >
+                                <i class="fas fa-arrow-left"></i>
+                            </a>
+                            <span class="selectorx pagedsel r">
+                                <select
+                                    name="select-paged"
+                                    class="ts-select-paged"
+                                    id="select-paged"
+                                >
+                                    <option value="0">1/9</option>
+                                    <option value="1">2/9</option>
+                                    <option value="2">3/9</option>
+                                    <option value="3">4/9</option>
+                                    <option value="4">5/9</option>
+                                </select>
+                            </span>
+                            <a class="ch-next-btn" href="#/next/" rel="next">
+                                <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
 
         </div>
     </div>

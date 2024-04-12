@@ -301,7 +301,7 @@
                     allowfullscreen="true"
                     scrolling="no"
                     allow="encrypted-media"
-                    src="https://www.facebook.com/v14.0/plugins/comments.php?app_id=902390627047886&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df71012bea2517e5e8%26domain%3Dmanga168.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fmanga168.com%252Ffe93b49b040fb1587%26relation%3Dparent.parent&amp;container_width=787&amp;height=100&amp;href=https%3A%2F%2Fmanga168.com%2Fblog%2Fmanhwa-2023%2F&amp;locale=th_TH&amp;mobile=true&amp;numposts=2&amp;order_by=social&amp;sdk=joey&amp;version=v14.0&amp;width="
+                    src="#"
                     style="
                         border: none;
                         visibility: visible;

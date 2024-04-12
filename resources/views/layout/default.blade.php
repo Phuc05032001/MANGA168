@@ -421,54 +421,48 @@
     <link
       rel="stylesheet"
       id="style-css"
-      href="css/style_1.css"
+      href="{!! asset('css/style_1.css') !!}"
       type="text/css"
       media="all"
     />
     <link
       rel="stylesheet"
       id="lightstyle-css"
-      href="css/lightmode.css"
+      href="{!! asset('css/lightmode.css') !!}"
       type="text/css"
       media="all"
     />
     <link
       rel="stylesheet"
       id="fontawesome-css"
-      href="css/font-awesome.min.css"
+      href="{!! asset('css/font-awesome.min.css') !!}"
       type="text/css"
       media="all"
     />
     <link
       rel="stylesheet"
       id="owl-carousel-css"
-      href="css/owl.carousel.css"
+      href="{!! asset('css/owl.carousel.css') !!}"
       type="text/css"
       media="all"
     />
     <link
       rel="stylesheet"
       id="swiper-css"
-      href="css/swiper.min.css"
+      href="{!! asset('css/swiper.min.css') !!}"
       type="text/css"
       media="all"
     />
 
     <script
       type="text/javascript"
-      src="js/jquery.min.js"
+      src="{!! asset('js/jquery.min.js') !!}"
       id="jquery-js"
     ></script>
 
     <script
       type="text/javascript"
-      src="js/bookmark.js"
-      id="bookmarks_script-js"
-    ></script>
-
-    <script
-      type="text/javascript"
-      src="js/owl.carousel.min.js"
+      src="{!! asset('js/owl.carousel.min.js') !!}"
       id="owl-carousel-js"
     ></script>
   </head>
@@ -712,7 +706,7 @@
     @include('layout.footer')
 
     <a href="#" class="scrollToTop"><span class="fas fa-angle-up"></span></a>
-    <script src="js/swiper.min.js"></script>
+    <script src="{!! asset('js/swiper.min.js') !!}" ></script>
 
     <!-- Slider  -->
     <script>
@@ -733,17 +727,18 @@
     <link
       rel="stylesheet"
       id="front_end_comment_box-css"
-      href="css/style.css"
+      href="{!! asset('css/style.css') !!}"
       type="text/css"
       media="all"
     />
 
-    <script type="text/javascript" src="js/filter.js" id="filter-js"></script>
+    <script type="text/javascript" src="js/filter.js"  id="filter-js"></script>
 
     <script
       type="text/javascript"
-      src="js/front_end_js.js"
+      src="{!! asset('js/front_end_js.js') !!}"
       id="comment-box-front-end-js"
     ></script>
+
   </body>
 </html>

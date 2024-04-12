@@ -29,7 +29,7 @@
                           >
                           <img
                             decoding="async"
-                            src="images/a-babys-nest-rawm-193x278-1.jpg"
+                            src="#"
                             class="ts-post-image wp-post-image attachment-medium size-medium"
                             loading="lazy"
                             title="A Baby’s Nest"

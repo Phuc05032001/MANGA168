@@ -32,7 +32,7 @@
                   <div
                     class="bigbanner"
                     style="
-                      background-image: url('images/Necromancer-Academys-Genius-Summoner.jpg');
+                      background-image: url('#');
                     "
                   ></div>
                 </div>
@@ -61,7 +61,7 @@
                   </div>
                   <div
                     class="bigbanner"
-                    style="background-image: url('images/Doctor-Player.jpg')"
+                    style="background-image: url('#')"
                   ></div>
                 </div>
               </div>
@@ -175,7 +175,7 @@
             <div class="bixbox">
               <div class="releases">
                 <h2>การ์ตูน มังงะ อัพเดทล่าสุด</h2>
-                <a class="vl" href="https://manga168.com/manga/?order=update"
+                <a class="vl" href="/manga"
                   >คลิกดูอัพเดทตอนล่าสุด...</a
                 >
               </div>
@@ -188,10 +188,10 @@
                       <a
                         rel="158613"
                         class="series"
-                        href="https://manga168.com/manga/banished-disciples-counterattack/"
+                        href="/manga"
                         title="Banished Disciple’s Counterattack"
                         ><img
-                          src="images/5f71977c0c611-750x999-1-225x300.jpg"
+                          src="#"
                           class="ts-post-image wp-post-image attachment-medium size-medium"
                           loading="lazy"
                           title="Banished Disciple’s Counterattack"
